@@ -1,0 +1,4 @@
+.footer-hover :hover {
+  transition: 2s;
+  color: red;
+}

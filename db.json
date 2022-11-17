@@ -1,0 +1,244 @@
+{
+  "players": [
+    {
+      "name": "Zlatan",
+      "lastName": "Ibrahimovich",
+      "position": "Forward",
+      "age": "40",
+      "country": "Sweden",
+      "salary": 10000000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/09/Ibrahimovic-Large.jpg",
+      "id": 1
+    },
+    {
+      "name": "Theo",
+      "lastName": "Hernandes",
+      "position": "Defender",
+      "age": "24",
+      "country": "France",
+      "salary": 5000000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Hernandez-Large.png",
+      "id": 2
+    },
+    {
+      "name": "Chiprian",
+      "lastName": "Teterushanu",
+      "position": "Goalkeeper",
+      "age": "36",
+      "country": "Romania",
+      "salary": "1200000",
+      "img": "https://milanac.ru/wp-content/uploads/2022/09/Tatarusanu-Large.jpg",
+      "id": 6
+    },
+    {
+      "name": "Brahim",
+      "lastName": "Diaz",
+      "position": "Midfielder",
+      "age": "23",
+      "country": "Spain",
+      "salary": "3000000",
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Diaz-Large.jpg",
+      "id": 7
+    },
+    {
+      "name": "Rafael",
+      "lastName": "Leao",
+      "position": "Forward",
+      "age": "23",
+      "country": "Portugal",
+      "salary": "5000000",
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Leao-Large.png",
+      "id": 8
+    },
+    {
+      "name": "Davide",
+      "lastName": "Calabria",
+      "position": "Defender",
+      "age": "26",
+      "country": "Italy",
+      "salary": "3000000",
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Calabria-Large.jpg",
+      "id": 9
+    },
+    {
+      "name": "Mike",
+      "lastName": "Maignan",
+      "position": "Goalkeeper",
+      "age": "27",
+      "country": "France",
+      "salary": "4000000",
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Maignan-Large.png",
+      "id": 10
+    },
+    {
+      "name": "Ismael",
+      "lastName": "Benaccer",
+      "position": "Midfielder",
+      "age": "25",
+      "country": "Algeria",
+      "salary": "3000000",
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Bennacer-Large.jpg",
+      "id": 11
+    },
+    {
+      "name": "Ante",
+      "lastName": "Rebic",
+      "position": "Forward",
+      "age": "29",
+      "country": "Croatia",
+      "salary": 3000000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Rebic-Large.png",
+      "id": 12
+    },
+    {
+      "name": "Fikayo",
+      "lastName": "Tomori",
+      "position": "Defender",
+      "age": "25",
+      "country": "England",
+      "salary": 4000000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Tomori-Large.png",
+      "id": 13
+    },
+    {
+      "name": "Antonio",
+      "lastName": "Mirante",
+      "position": "Goalkeeper",
+      "age": "39",
+      "country": "Italy",
+      "salary": 2000000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Mirante-Large.png",
+      "id": 14
+    },
+    {
+      "name": "Rade",
+      "lastName": "Krunic",
+      "position": "Midfielder",
+      "age": "29",
+      "country": "Bosnia and Herzegovina",
+      "salary": 2500000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Krunic-Large.png",
+      "id": 15
+    },
+    {
+      "name": "Matteo",
+      "lastName": "Gabbia",
+      "position": "Defender",
+      "age": "23",
+      "country": "Italy",
+      "salary": 1500000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/09/Gabbia-Large.jpg",
+      "id": 16
+    },
+    {
+      "name": "Simon",
+      "lastName": "Kjaer",
+      "position": "Defender",
+      "age": "33",
+      "country": "Denmark",
+      "salary": 3500000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Kjaer-Large.png",
+      "id": 17
+    },
+    {
+      "name": "Alessandro",
+      "lastName": "Florenzi",
+      "position": "Defender",
+      "age": "31",
+      "country": "Italy",
+      "salary": 2500000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Florenzi-Large.jpg",
+      "id": 18
+    },
+    {
+      "name": "Pierre",
+      "lastName": "Kalulu",
+      "position": "Defender",
+      "age": "22",
+      "country": "France",
+      "salary": 1500000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Kalulu-Large.png",
+      "id": 19
+    },
+    {
+      "name": "Alexis",
+      "lastName": "Saelemaekers",
+      "position": "Midfielder",
+      "age": "23",
+      "country": "Belgium",
+      "salary": 2500000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Saelemaekers-Large.png",
+      "id": 20
+    },
+    {
+      "name": "Sandro",
+      "lastName": "Tonali",
+      "position": "Midfielder",
+      "age": "22",
+      "country": "Italy",
+      "salary": 3000000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Tonali-Large.png",
+      "id": 21
+    },
+    {
+      "name": "Junior",
+      "lastName": "Messias",
+      "position": "Midfielder",
+      "age": "31",
+      "country": "Brasil",
+      "salary": 2500000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Messias-Large.png",
+      "id": 22
+    },
+    {
+      "name": "Yasin",
+      "lastName": "Adli",
+      "position": "Midfielder",
+      "age": "22",
+      "country": "France",
+      "salary": 1500000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Adli-Large.jpg",
+      "id": 23
+    },
+    {
+      "name": "Tomazzo",
+      "lastName": "Pobega",
+      "position": "Midfielder",
+      "age": "23",
+      "country": "Italy",
+      "salary": 2499998,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Pobega-Large.png",
+      "id": 24
+    },
+    {
+      "name": "Charles",
+      "lastName": "De Ketelaere",
+      "position": "Midfielder",
+      "age": "21",
+      "country": "Belgium",
+      "salary": 2500000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/09/DeKetelaere-Large.jpg",
+      "id": 25
+    },
+    {
+      "name": "Olivier",
+      "lastName": "Giroud",
+      "position": "Forward",
+      "age": "36",
+      "country": "France",
+      "salary": 5000000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Giroud-Large.jpg",
+      "id": 26
+    },
+    {
+      "name": "Divock",
+      "lastName": "Origi",
+      "position": "Forward",
+      "age": "27",
+      "country": "Belgium",
+      "salary": 4000000,
+      "img": "https://milanac.ru/wp-content/uploads/2022/08/Origi-Large.png",
+      "id": 27
+    }
+  ]
+}

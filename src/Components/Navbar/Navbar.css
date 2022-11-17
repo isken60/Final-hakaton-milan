@@ -1,0 +1,17 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar-hover :hover {
+  transition: 2s;
+  color: red;
+}
+
+.gain-center {
+  transition: 1s;
+  text-align: center;
+}
+.gain-center:hover {
+  transform: scale(1.1);
+}

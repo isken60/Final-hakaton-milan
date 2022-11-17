@@ -1,0 +1,17 @@
+#form-add {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  margin: 20px auto;
+  background-color: white;
+}
+
+.outlined-basic {
+  height: 65px;
+}
+
+#add-title {
+  margin: 20px auto;
+  font-size: 150%;
+  text-align: center;
+}
